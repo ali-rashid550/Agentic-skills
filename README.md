@@ -53,12 +53,13 @@ Use skills in Claude Code with `/skill-name`:
 - **Integrated** — Works with MCP servers
 - **Validated** — Built-in quality assurance
 
-## Documentation
+## Documentation & Examples
 
-- Concept Overview: `summary/concept-behind-skills.md`
-- MCP Integration: `summary/mcp-integration.md`
-- Skill Creation: `skill-creator/SKILL.md`
-- Quality Standards: `skill-validator/`
+- **Skill Concepts** — `summary/concept-behind-skills.md` (Understanding the skills framework)
+- **MCP Integration** — `summary/mcp-integration.md` (Connecting to external systems)
+- **Skill Creation Guide** — `skill-creator/SKILL.md` (How to create new skills)
+- **Quality Standards** — `skill-validator/` (Validation criteria)
+- **Lesson Summarizer Examples** — `summary/` (Real-world examples of educational content summarization)
 
 ## Security
 
